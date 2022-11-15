@@ -1,4 +1,5 @@
 
+// using spread operator ...
 class SmallestIntegerFinder {
     findSmallestInt(args) {
       
