@@ -1,4 +1,5 @@
 
+
 let numbers=[10,5,26,35];
 
 
@@ -14,6 +15,6 @@ for (let index = 0; index < arrayNumbers.length; index++) {
     
     
 }
-let phoneNumber="("+word.substring(0,3)+")"+" "+word.substring(3,6)+"-"+word.substring(6,10)
+ let phoneNumber="("+word.substring(0,3)+")"+" "+word.substring(3,6)+"-"+word.substring(6,10)
 console.log(phoneNumber)
 
